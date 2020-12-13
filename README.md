@@ -1,2 +1,3 @@
 # Minesweeper
-A Minesweeper game that depend on command prompt
+一个命令行的扫雷游戏
+学习cpp的练习作
